@@ -1,0 +1,11 @@
+{
+  "name": "ol4-popup",
+  "version": "4.2.0",
+  "description": "OpenLayers 4 popups",
+  "main": [
+    "ol4-popup.js",
+    "ol4-popup.css"
+  ],
+  "ignore": [
+  ]
+}
